@@ -10,3 +10,6 @@
   
   * Confirmação da viagem
   ![img_3.png](img_3.png)
+  
+  * Confirma participante
+  ![img_4.png](img_4.png)
