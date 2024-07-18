@@ -13,5 +13,9 @@
   
   * Confirma participante
   ![img_4.png](img_4.png)
+  
   * Convida participante
   ![img_5.png](img_5.png)
+
+  * Recupera participantes da viagem
+  ![img_8.png](img_8.png)
