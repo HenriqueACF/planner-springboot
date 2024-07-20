@@ -21,13 +21,13 @@ public class LinkService {
         return new LinkResponse(newLink.getId());
     }
 
-//    public List<ActivityData> getAllActivitiesFromId(UUID tripId ){
-//        return this.repository.findByTripId(tripId)
-//                .stream()
-//                .map(activity -> new ActivityData(
-//                        activity.getId(),
-//                        activity.getTitle(),
-//                        activity.getOccursAt()
-//                )).toList();
-//    }
+    public List<LinkData> getAllLinksFromId(UUID tripId ){
+        return this.repository.findByTripId(tripId)
+                .stream()
+                .map(link -> new LinkData(
+                        link.getId(),
+                        link.getTitle(),
+                        link.getUrl()
+                )).toList();
+    }
 }
