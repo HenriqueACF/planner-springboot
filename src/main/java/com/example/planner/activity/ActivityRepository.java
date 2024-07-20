@@ -1,4 +1,4 @@
-package com.example.planner.activities;
+package com.example.planner.activity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
