@@ -19,3 +19,6 @@
 
   * Recupera participantes da viagem
   ![img_8.png](img_8.png)
+
+  * Registra Atividade
+  ![img_6.png](img_6.png)
